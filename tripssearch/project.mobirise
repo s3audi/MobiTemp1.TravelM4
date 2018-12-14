@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-14_1505",
+    "name": "Gezi Arama",
     "currentPage": "index.html",
     "theme": {
       "name": "travelm4",
@@ -33,7 +33,9 @@
     "siteFonts": [],
     "uniqCompNum": 14,
     "versionPublish": "4.8.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
